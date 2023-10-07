@@ -1,0 +1,1 @@
+Congratulations, {{username}}! Your account has been successfully activated!
